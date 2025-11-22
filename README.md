@@ -15,21 +15,18 @@
 ---
 
 ## 💻 Sobre mí
-<span style="display:block; border-bottom:2px solid #ED8B00; width:50px; margin:auto;"></span>
 Me gusta aprender, mejorar cada día y entender cómo funcionan las cosas por dentro.  
 Disfruto trabajar con Java y el desarrollo web mientras construyo una base sólida como programador. ✨
 
 ---
 
 ## 📂 Proyectos
-<span style="display:block; border-bottom:2px solid #1572B6; width:50px; margin:auto;"></span>
 Actualmente estoy practicando y desarrollando pequeños ejercicios y aplicaciones para mejorar mis habilidades en programación y diseño web.  
 Pronto compartiré proyectos más completos y profesionales en esta sección. 🚀
 
 ---
 
 ## 📫 Contacto
-<span style="display:block; border-bottom:2px solid #4CAF50; width:50px; margin:auto;"></span>
 ✉️ manugx213@gmail.com
 
 ---
