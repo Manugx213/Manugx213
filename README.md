@@ -12,19 +12,19 @@
 
 ---
 
-## 🧩 Sobre mí
+<span style="font-weight:600; font-size:16px;">Sobre mí</span>  
 Me gusta aprender, mejorar cada día y entender cómo funcionan las cosas por dentro.  
 Disfruto trabajar con Java y el desarrollo web mientras construyo una base sólida como programador. ✨
 
 ---
 
-## 📂 Proyectos
+<span style="font-weight:600; font-size:16px;">Proyectos</span>  
 Actualmente estoy practicando y desarrollando pequeños ejercicios y aplicaciones para mejorar mis habilidades en programación y diseño web.  
 Pronto compartiré proyectos más completos y profesionales en esta sección. 🚀
 
 ---
 
-## 📫 Contacto
+<span style="font-weight:600; font-size:16px;">Contacto</span>  
 ✉️ manugx213@gmail.com
 
 ---
@@ -32,4 +32,3 @@ Pronto compartiré proyectos más completos y profesionales en esta sección. �
 > “La práctica constante y la curiosidad son la clave para crecer como desarrollador.” 💡
 
 </div>
-
