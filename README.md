@@ -3,6 +3,8 @@
 # Manu
 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
+---
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -12,19 +14,22 @@
 
 ---
 
-<span style="font-weight:600; font-size:16px;">Sobre mí</span>  
+## 💻 Sobre mí
+<span style="display:block; border-bottom:2px solid #ED8B00; width:50px; margin:auto;"></span>
 Me gusta aprender, mejorar cada día y entender cómo funcionan las cosas por dentro.  
 Disfruto trabajar con Java y el desarrollo web mientras construyo una base sólida como programador. ✨
 
 ---
 
-<span style="font-weight:600; font-size:16px;">Proyectos</span>  
+## 📂 Proyectos
+<span style="display:block; border-bottom:2px solid #1572B6; width:50px; margin:auto;"></span>
 Actualmente estoy practicando y desarrollando pequeños ejercicios y aplicaciones para mejorar mis habilidades en programación y diseño web.  
 Pronto compartiré proyectos más completos y profesionales en esta sección. 🚀
 
 ---
 
-<span style="font-weight:600; font-size:16px;">Contacto</span>  
+## 📫 Contacto
+<span style="display:block; border-bottom:2px solid #4CAF50; width:50px; margin:auto;"></span>
 ✉️ manugx213@gmail.com
 
 ---
