@@ -1,7 +1,7 @@
 # Manu
 
 Estudiante de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM).  
-Apasionado por aprender nuevas tecnologías y desarrollar proyectos bien estructurados. ✨
+Apasionado por aprender nuevas tecnologías y  poder desarrollar mis primeros proyectos. ✨
 
 ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
@@ -17,7 +17,7 @@ Apasionado por aprender nuevas tecnologías y desarrollar proyectos bien estruct
 
 ## 📂 Proyectos
 Actualmente estoy practicando y desarrollando pequeños ejercicios y aplicaciones para mejorar mis habilidades en programación y diseño web.  
-Pronto compartiré proyectos más completos y profesionales en esta sección. 🚀
+Pronto podré compartir mis proyectos con todos vosotros. 🚀
 
 ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
 
